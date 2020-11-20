@@ -1,6 +1,6 @@
 ## Simple crud with ReactJS, Bootstrap, Reactstrap.
-<img src="https://i.postimg.cc/BXhPYWJ5/social-media.png" />
-<img src="https://i.postimg.cc/ppVnJVMX/add.png" /> 
+<img src="https://i.postimg.cc/BXhPYWJ5/social-media.png" with="100px"/>
+<img src="https://i.postimg.cc/ppVnJVMX/add.png" with="100px"/> 
 
 # Getting Started with Create React App
 
